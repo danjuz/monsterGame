@@ -1,1 +1,1 @@
-This is just a simple Javascript Monster game I created to practise Javascript. Nothing more, nothing less. 
+This is just a simple Javascript Monster game I created to practice Javascript. Nothing more, nothing less. 
