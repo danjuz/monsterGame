@@ -1,0 +1,54 @@
+body{
+	width: 98%;
+	height: 100%;
+	background-image:url(/img/background.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+	font-size: 0.8em;
+	margin-top: -16px;
+}
+
+table { 
+	margin: 50px auto 50px auto;
+	border-spacing: 0;
+	max-width: 100%;
+}
+
+tr, td{
+	width: 30px;
+	height: 30px;
+	border: 1px solid black;
+	max-width: 100%;
+	background-color: darkgreen;
+}
+
+img{
+	max-width:auto;
+	max-height:auto;
+}
+
+footer{
+	p{
+		bottom: 0;
+		text-align: center;	
+		color: white;
+		a{
+		text-decoration: none;
+			color: white;
+				&:hover{
+			color: aqua;
+		}
+		}
+	
+	}
+}
+
+
+
